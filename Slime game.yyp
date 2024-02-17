@@ -82,7 +82,6 @@
     {"id":{"name":"Spr_player_rightmove","path":"sprites/Spr_player_rightmove/Spr_player_rightmove.yy",},},
     {"id":{"name":"Spr_lvl1_wall5","path":"sprites/Spr_lvl1_wall5/Spr_lvl1_wall5.yy",},},
     {"id":{"name":"Obj_lvl1_wall3","path":"objects/Obj_lvl1_wall3/Obj_lvl1_wall3.yy",},},
-    {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Spr_menu_button_exit_animation","path":"sprites/Spr_menu_button_exit_animation/Spr_menu_button_exit_animation.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
