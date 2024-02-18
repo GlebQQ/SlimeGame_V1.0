@@ -16,6 +16,9 @@ if (cd <= 0 && mouse_check_button(mb_left)) {
 if (keyboard_check_pressed(ord("R"))) {
 	game_restart();
 }
+if keyboard_check(ord("S")) {
+	sprite_index = Spr_player_movedown;
+}
 
 if (keyboard_check(ord("D")) || keyboard_check(ord("A")) || keyboard_check(ord("W")) || keyboard_check(ord("S"))) && keyboard_check(vk_shift) 
 	spd = 3.5;
