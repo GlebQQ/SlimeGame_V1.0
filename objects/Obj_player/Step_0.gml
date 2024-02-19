@@ -31,7 +31,6 @@ if keyboard_check(ord("D")) {
 	sprite_index = Spr_player_rightmove;
 }
 
-
 if (keyboard_check(ord("D")) || keyboard_check(ord("A")) || keyboard_check(ord("W")) || keyboard_check(ord("S"))) && keyboard_check(vk_shift) 
 	spd = 3.5;
 else 
