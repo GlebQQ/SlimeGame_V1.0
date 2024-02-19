@@ -13,12 +13,24 @@ if (cd <= 0 && mouse_check_button(mb_left)) {
 		speed = 10;
 		}
 }
+
 if (keyboard_check_pressed(ord("R"))) {
 	game_restart();
 }
+
 if keyboard_check(ord("S")) {
-	sprite_index = Spr_player_movedown;
+	sprite_index = Spr_player_downmove;
 }
+if keyboard_check(ord("W")) {
+	sprite_index = Spr_player_upmove;
+}
+if keyboard_check(ord("A")) {
+	sprite_index = Spr_player_leftmove;
+}
+if keyboard_check(ord("D")) {
+	sprite_index = Spr_player_rightmove;
+}
+
 
 if (keyboard_check(ord("D")) || keyboard_check(ord("A")) || keyboard_check(ord("W")) || keyboard_check(ord("S"))) && keyboard_check(vk_shift) 
 	spd = 3.5;
