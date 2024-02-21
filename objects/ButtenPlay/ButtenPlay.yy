@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "ButtenPlay",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"ButtenParent","path":"objects/ButtenParent/ButtenParent.yy",},"propertyId":{"name":"Buttentext","path":"objects/ButtenParent/ButtenParent.yy",},"value":"играть",},
+  ],
+  "parent": {
+    "name": "Объекты",
+    "path": "folders/Объекты.yy",
+  },
+  "parentObjectId": {
+    "name": "ButtenParent",
+    "path": "objects/ButtenParent/ButtenParent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "Spr_MEnu_game",
+    "path": "sprites/Spr_MEnu_game/Spr_MEnu_game.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
