@@ -49,6 +49,7 @@
     {"name":"Spr_box","order":53,"path":"sprites/Spr_box/Spr_box.yy",},
     {"name":"Obj_lvl1_arc","order":6,"path":"objects/Obj_lvl1_arc/Obj_lvl1_arc.yy",},
     {"name":"Obj_lvl1_wall2","order":1,"path":"objects/Obj_lvl1_wall2/Obj_lvl1_wall2.yy",},
+    {"name":"Spritawdawdawdaw","order":75,"path":"sprites/Spritawdawdawdaw/Spritawdawdawdaw.yy",},
     {"name":"Obj_fullscreen","order":9,"path":"objects/Obj_fullscreen/Obj_fullscreen.yy",},
     {"name":"Spr_lvl1_exit","order":44,"path":"sprites/Spr_lvl1_exit/Spr_lvl1_exit.yy",},
     {"name":"Spr_lvl1_shadow1","order":24,"path":"sprites/Spr_lvl1_shadow1/Spr_lvl1_shadow1.yy",},
