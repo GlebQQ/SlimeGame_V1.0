@@ -50,6 +50,7 @@
     {"name":"Spr_player_upmove","order":60,"path":"sprites/Spr_player_upmove/Spr_player_upmove.yy",},
     {"name":"Spr_toygun","order":73,"path":"sprites/Spr_toygun/Spr_toygun.yy",},
     {"name":"Spr_lvl1_shadow3","order":26,"path":"sprites/Spr_lvl1_shadow3/Spr_lvl1_shadow3.yy",},
+    {"name":"Sprite36","order":79,"path":"sprites/Sprite36/Sprite36.yy",},
     {"name":"Obj_enemy","order":10,"path":"objects/Obj_enemy/Obj_enemy.yy",},
     {"name":"Spr_box","order":53,"path":"sprites/Spr_box/Spr_box.yy",},
     {"name":"Obj_lvl1_arc","order":6,"path":"objects/Obj_lvl1_arc/Obj_lvl1_arc.yy",},

@@ -70,6 +70,7 @@
     {"id":{"name":"Spr_player_upmove","path":"sprites/Spr_player_upmove/Spr_player_upmove.yy",},},
     {"id":{"name":"Spr_toygun","path":"sprites/Spr_toygun/Spr_toygun.yy",},},
     {"id":{"name":"Spr_lvl1_shadow3","path":"sprites/Spr_lvl1_shadow3/Spr_lvl1_shadow3.yy",},},
+    {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},},
     {"id":{"name":"Obj_enemy","path":"objects/Obj_enemy/Obj_enemy.yy",},},
     {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},},
     {"id":{"name":"Obj_lvl1_arc","path":"objects/Obj_lvl1_arc/Obj_lvl1_arc.yy",},},
