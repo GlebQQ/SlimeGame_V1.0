@@ -14,6 +14,6 @@
   "function": 0,
   "parent": {
     "name": "Кривые анимации",
-    "path": "folders/Кривые анимации.yy",
+    "path": "folders/Объекты/Кривые анимации.yy",
   },
 }

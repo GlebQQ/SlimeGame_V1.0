@@ -1,21 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ButtenPlay",
+  "name": "ButtonPlay",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"ButtenParent","path":"objects/ButtenParent/ButtenParent.yy",},"propertyId":{"name":"Buttentext","path":"objects/ButtenParent/ButtenParent.yy",},"value":"играть",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"ButtonParent","path":"objects/ButtonParent/ButtonParent.yy",},"propertyId":{"name":"Buttentext","path":"objects/ButtonParent/ButtonParent.yy",},"value":"играть",},
   ],
   "parent": {
     "name": "Объекты",
     "path": "folders/Объекты.yy",
   },
   "parentObjectId": {
-    "name": "ButtenParent",
-    "path": "objects/ButtenParent/ButtenParent.yy",
+    "name": "ButtonParent",
+    "path": "objects/ButtonParent/ButtonParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_MEnu_game",
-    "path": "sprites/Spr_MEnu_game/Spr_MEnu_game.yy",
+    "name": "Spr_menu_play",
+    "path": "sprites/Spr_menu_play/Spr_menu_play.yy",
   },
   "spriteMaskId": null,
   "visible": true,
