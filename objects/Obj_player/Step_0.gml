@@ -3,7 +3,6 @@ var _ymove = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
 x += _xmove * spd;
 y += _ymove * spd;
-
  cd--;
 
 //выстрелы
